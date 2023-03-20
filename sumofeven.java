@@ -13,11 +13,6 @@ class sumofeven
     public static void main(String[] args)
     {
 	  sumofeven obj = new sumofeven();
-        System.out.println("Name : Rachit Singhal");
-        System.out.println("Roll no : 41");
-        System.out.println("Section : B");
-        System.out.println("Course : MCA");
-        System.out.println("Semester : 2nd");
         int number = Integer.parseInt(args[0]);
 	  int temp = number;
         int sum=0;
